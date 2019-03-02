@@ -1,0 +1,88 @@
+body{
+
+}
+.clearfix{
+	clear:both;
+}
+.header nav{
+	float: right;
+}
+.header{
+	padding-top: 10px;
+	padding-right: 15px;
+}
+.header nav ul li{
+	list-style-type: none;
+	display: inline;
+	padding-left: 10px;
+}
+.header nav ul li a{
+	color: #000;
+	text-decoration: none;
+}
+.header nav ul a:hover{
+	border-bottom: 1px solid #000;
+}
+.header nav ul li .sign-in{
+	background: #4485f3;
+	padding: 7px 15px;
+	border-radius: 2px 2px 2px;
+	color:#fff;
+}
+.content .logo{
+	padding-top: 130px;
+
+}
+.buttons{
+	background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 2px;
+    color: #757575;
+    cursor: pointer;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 11px 4px;
+    min-width: 54px;
+    padding: 0 16px;
+    height: 36px;
+    text-align: center;
+}
+.buttons:hover{
+	border: 1px solid grey;
+	color: #000;
+}
+.language center a{
+	text-decoration: none;
+	font-size: 15px;
+
+} 
+.footer{
+	padding-left: 2px;
+}
+.footer nav ul li{
+	list-style-type: none;
+	display: inline;
+	padding-left: 20px;
+	float: left;
+}
+.footer nav ul li a{
+	color: #000;
+	text-decoration: none;
+}
+.footer nav ul a:hover{
+	border-bottom: 1px solid #000;
+}
+.footer1 nav ul li{
+	list-style-type: none;
+	display: inline;
+	padding-left: 20px;
+	float: right;
+}
+.footer1 nav ul li a{
+	color: #000;
+	text-decoration: none;
+}
+.footer1 nav ul a:hover{
+	border-bottom: 1px solid #000;
+}
